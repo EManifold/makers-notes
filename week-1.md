@@ -53,7 +53,7 @@ Achieved up to Step 10 with Charlie
 - Functionality vs state - feature testing should test how whether an aspect of the code does what it's supposed to do, not the way in which it does it (state). 
 
 **Unit Testing**
-- Unit testing is where each bit of the software is tested. 
+- Unit testing is the practice of testing small pieces of code, typically individual functions, alone and isolated.
 - This prevents unexpected bugs arising later on. 
 - Unit testing improves confidence in changing or mainting your code, to ensure that it's what you write to start with is not set in stone and unchangeable. 
 - We use rspec to carry out unit testing. 
