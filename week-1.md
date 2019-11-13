@@ -11,10 +11,10 @@
 
 ### Skills Workshop
 
-Identifying an error:
+Fixing a bug:
 - Understand the problem
 - Tighten the loop
-- Fix the bug
+- Get visibility using ```` p ```
 
 Different types of errors:
 - Syntax Error - problem with the syntactic structure of your code so the compiler doesn't know what went wrong
