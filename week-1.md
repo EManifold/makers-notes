@@ -1,13 +1,13 @@
-## Week 1
+# Week 1
 
-### Goals for the week
+## Goals for the week
 
 - Test-drive a simple program using objects and methods
 - Pair using the driver-navigator style
 - Follow an effective debugging process
 - Describe some basic OO principles like encapsulation, SRP
 
-### Day 2
+## Day 2
 
 **Skills Workshop**
 
@@ -30,7 +30,7 @@ Gaps in knowledge to rectify:
 - The difference between a Unit test and a Feature test
 - What a Domain Model is and how the above relate to it
 
-### Day 3
+## Day 3
 
 **Goal Setting**
 - Go forward with the resources provided for Week 1
@@ -38,8 +38,8 @@ Gaps in knowledge to rectify:
 - Explain these concepts to a friend at the end of independent learning
 - Organise my files
 
-### Day 4
+## Day 4
 
-### Day 5
+## Day 5
 
-### Weekend Challenge
+## Weekend Challenge
