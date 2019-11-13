@@ -26,7 +26,7 @@ Different types of errors:
 
 Achieved up to Step 10 with Charlie
 
-Gaps in knowledge to rectify:
+**Gaps in knowledge to rectify**
 - The difference between a Unit test and a Feature test
 - What a Domain Model is and how the above relate to it
 
