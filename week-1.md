@@ -9,7 +9,7 @@
 
 ## Day 2
 
-**Skills Workshop**
+### Skills Workshop
 
 Identifying an error:
 - Understand the problem
@@ -22,7 +22,7 @@ Different types of errors:
 - Program doesn't terminate - e.g. infinite loop
 - Unexpected results - the program doesn't do what you expect it to do
 
-**Pair Programming - Boris Bike Challenge**
+### Pair Programming - Boris Bike Challenge
 
 Achieved up to Step 10 with Charlie
 
@@ -32,7 +32,7 @@ Gaps in knowledge to rectify:
 
 ## Day 3
 
-**Goal Setting**
+### Goal Setting
 - Go forward with the resources provided for Week 1
 - Fill in the gaps in my knowledge from yesterday, research the above topics
 - Explain these concepts to a friend at the end of independent learning
