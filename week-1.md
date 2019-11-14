@@ -9,7 +9,7 @@
 
 ## Day 2
 
-### Skills Workshop
+### Debugging Workshop
 
 Fixing a bug:
 - Understand the problem
@@ -68,6 +68,149 @@ Reached challenge 13 with David
 - The start of an rspec test where you write the code that should be carried out 
 
 ## Day 4
+
+### TDD Workshop
+
+Production code = the code of the software that is shown to the client. Code that is ready to deploy to the client. Doesn't mean that it's finished because you could still be working on it to add more features, but happy to show what you have to the client.
+
+What is TDD and why do we use it?
+- The process of writing tests to guide the writing of code that meets user needs.
+- It helps break down the problem
+- Tests can serve as documentation
+- Acts as a safety net (tests in general, not necasserily TDD)
+
+**PiggyBank Program**
+
+Steps:
+1. Define user needs
+2. Write user stories
+3. Domain
+4. Write a feature test
+5. Write a unit test, fail it and make it pass
+6. Refactor
+
+
+User needs
+- Store money
+- Discourage people from taking it out
+- Destroy + taking all the money out
+- Shaking it tells us if there is money
+
+User stories:
+
+--
+
+As a user - (WHO'S DOING THE ACTION)
+So I can save up money - (CONTEXT, WHO MAY DO THIS AND WHAT PURPOSE DO THEY HAVE IN MIND)
+I want to store it - (THIS IS THE LINE WE'RE INTERESTED IN)
+
+As a user
+So I can spend money
+I want to take money out of the piggy bank
+
+--
+
+Nouns: USER, MONEY, PIGGY BANK
+Verbs: SAVE UP, STORE
+
+PiggyBank object
+Store method
+
+
+When you're testing something, you have to ask yourself 'what is the behaviour of the thing I want to test?'
+ => Use an input/output table
+ Once we've described the behaviour, we can use these to write our tests
+
+ 
+Feature test:
+
+```
+piggy_bank = PiggyBank.new
+piggy_bank.store(1)
+=> 'clink'
+
+```
+ 
+Input | Output
+===============
+1 | 'clink'
+2 | 'clink'
+0 | nil
+
+---------
+
+```
+piggy_bank = PiggyBank.new
+piggy_bank.destroy
+=> 0
+```
+
+Input | Output
+===============
+pb.store(1) | 1
+pb.store(1) && pb.store(2) | 3
+new pb | 0
+
+------------
+
+piggy_bank_spec.rb:
+```
+require 'piggy_bank'
+
+describe PiggyBank do
+  describe '#store' do 
+    it 'should return "clink" when I store 1 pound' do
+      piggy_bank = PiggyBank.new
+      expect(piggy_bank.store(1)).to eq('clink')
+    end
+    
+    it 'should return "clink" when I store 2 pounds' do 
+      piggy_bank = PiggyBank.new
+      expect(piggy_bank.store(2)).to eq('clink')
+    end
+    
+    it 'should return nil when I store 0 pounds' do 
+      piggy_bank = PiggyBank.new
+      expect(piggy_bank.store(0)).to eq(nil)
+    end
+  end
+  
+  describe '#destroy' do 
+    it 'should return 1 when I had stored 1 pound in it' do
+      piggy_bank = PiggyBank.new
+      piggy_bank.store(1)
+      expect(piggy_bank.destroy).to eq(1)
+    end
+  end
+end
+```
+
+piggy_bank.rb:
+
+```
+class PiggyBank
+  def store(amount)
+    'clink' if amount > 0
+  end
+  
+  def destroy
+    1
+  end
+end
+```
+
+What's definitely needed in a unit test:
+- expect => along with .to eq, .to raise_error or .to output
+- describe
+- it
+
+
+3 stages of tests:
+- Arrange - set up situation before actual test (before expect)
+- Act - what you're doing to the thing (in expect brackets)
+- Assert - what comes out of it 
+
+
 
 ## Day 5
 
