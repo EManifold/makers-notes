@@ -58,6 +58,15 @@ Achieved up to Step 10 with Charlie
 - Unit testing improves confidence in changing or mainting your code, to ensure that it's what you write to start with is not set in stone and unchangeable. 
 - We use rspec to carry out unit testing. 
 
+### Pair Programming Challenge - Boris Bikes
+
+Reached challenge 13 with David
+
+**Gaps in knowledge to rectify**
+- attr_reader
+- Use of instance variables within classes
+- The start of an rspec test where you write the code that should be carried out
+
 ## Day 4
 
 ## Day 5
