@@ -65,7 +65,7 @@ Reached challenge 13 with David
 **Gaps in knowledge to rectify**
 - attr_reader
 - Use of instance variables within classes
-- The start of an rspec test where you write the code that should be carried out
+- The start of an rspec test where you write the code that should be carried out 
 
 ## Day 4
 
