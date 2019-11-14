@@ -214,4 +214,11 @@ What's definitely needed in a unit test:
 
 ## Day 5
 
+Todo:
+- Refactor my BB rspec
+- Watch Alice's screen recording
+- Research earlier gaps in knowledge
+- Look at MentalHealth post on general and see if I'd like the talk
+- Don't forget lunchtime talk
+
 ## Weekend Challenge
