@@ -132,7 +132,7 @@ piggy_bank.store(1)
 ```
  
 Input | Output
-===============
+--- | ---
 1 | 'clink'
 2 | 'clink'
 0 | nil
@@ -146,7 +146,7 @@ piggy_bank.destroy
 ```
 
 Input | Output
-===============
+--- | ---
 pb.store(1) | 1
 pb.store(1) && pb.store(2) | 3
 new pb | 0
