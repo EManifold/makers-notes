@@ -100,26 +100,26 @@ User stories:
 
 --
 
-As a user - (WHO'S DOING THE ACTION)
-So I can save up money - (CONTEXT, WHO MAY DO THIS AND WHAT PURPOSE DO THEY HAVE IN MIND)
-I want to store it - (THIS IS THE LINE WE'RE INTERESTED IN)
+As a user - (WHO'S DOING THE ACTION)  
+So I can save up money - (CONTEXT, WHO MAY DO THIS AND WHAT PURPOSE DO THEY HAVE IN MIND)  
+I want to store it - (THIS IS THE LINE WE'RE INTERESTED IN)  
 
-As a user
-So I can spend money
-I want to take money out of the piggy bank
+As a user  
+So I can spend money  
+I want to take money out of the piggy bank  
 
 --
 
-Nouns: USER, MONEY, PIGGY BANK
-Verbs: SAVE UP, STORE
+Nouns: USER, MONEY, PIGGY BANK  
+Verbs: SAVE UP, STORE  
 
-PiggyBank object
-Store method
+PiggyBank object  
+Store method  
 
 
-When you're testing something, you have to ask yourself 'what is the behaviour of the thing I want to test?'
- => Use an input/output table
- Once we've described the behaviour, we can use these to write our tests
+When you're testing something, you have to ask yourself 'what is the behaviour of the thing I want to test?'  
+ => Use an input/output table  
+ Once we've described the behaviour, we can use these to write our tests  
 
  
 Feature test:
