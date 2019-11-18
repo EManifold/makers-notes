@@ -230,8 +230,3 @@ The program allows you to add a person (with their name and birthday), show the 
   
 In repositories under 'birthday-list'.  
 
-### Reflection session
-
-
-
-## Weekend Challenge
