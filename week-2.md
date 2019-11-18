@@ -23,6 +23,20 @@ Reasons to do peer review code:
 - Part of pair programming
 - Learning from eachother
 
+### Process Workshop
+
+My feedback:
+Read instructions v carefully - good
+Jumped straight into creating code first - could think about starting with tests
+Use of online REPL - good
+Started working with first test that passed - could think about starting with simplest test and building up in complexity
+Jumped straight into quite complicated solution (if statements, loops) - demonstrates confidence fluency in coding, but not TDD process
+Used existing tests to test your solution - good
+Looked for other methods to refactor code (switch statements) - good
+Tested code after introducing new method - good
+Refactored to make methods shorter - good
+Could think about using your own tests
+
 ## Day 2
 
 **Gaps in knowledge to rectify**
