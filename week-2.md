@@ -25,7 +25,7 @@ Reasons to do peer review code:
 
 ### Process Workshop
 
-My feedback:
+My feedback:  
 Read instructions v carefully - good  
 Jumped straight into creating code first - could think about starting with tests  
 Use of online REPL - good  
@@ -35,7 +35,10 @@ Used existing tests to test your solution - good
 Looked for other methods to refactor code (switch statements) - good  
 Tested code after introducing new method - good  
 Refactored to make methods shorter - good  
-Could think about using your own tests  
+Could think about using your own tests 
+
+**Gaps in knowledge to rectify**
+- Stubs/mocks/doubles
 
 ## Day 2
 
