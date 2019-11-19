@@ -42,6 +42,24 @@ Could think about using your own tests
 
 ## Day 2
 
+### Feedback Workshop
+1. Shift your perspective
+- No positive or negative
+- Feedback is kind
+
+2. Empowered receiver
+- Basically free therapy
+
+3. Know thyself
+- Truth triggers, relationship triggers, identity triggers
+- Wrong-spotting
+
+4. Understand feedback 
+- Appreciation, evalution, coaching
+
+5. Use a framework
+- Actionable, specific, kind
+
 **Gaps in knowledge to rectify**
 
 
