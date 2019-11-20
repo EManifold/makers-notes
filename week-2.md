@@ -68,7 +68,7 @@ Could think about using your own tests
 Goals for the day:
 - Learn more about mocks, stubs and doubles
 
-## Domain Modelling Workshop
+### Domain Modelling Workshop
 
 Google diagramming chart: Draw.io (if you want to present your diagram to other people)
 
