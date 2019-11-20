@@ -1,4 +1,4 @@
-# Week 1
+# Week 2
 
 [Day 1](#day-1) | [Day 2](#day-2) | [Day 3](#day-3) | [Day 4](#day-4) | [Day 5](#day-5) | [Weekend Challenge](#weekend-challenge)
 
@@ -61,9 +61,18 @@ Could think about using your own tests
 - Actionable, specific, kind
 
 **Gaps in knowledge to rectify**
-
+- Mocks, stubs and doubles
 
 ## Day 3
+
+Goals for the day:
+- Learn more about mocks, stubs and doubles
+
+## Domain Modelling Workshop
+
+Google diagramming chart: Draw.io (if you want to present your diagram to other people)
+
+Use makers > skills workshop > domain modelling walkthrough
 
 **Gaps in knowledge to rectify**
 
