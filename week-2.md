@@ -87,6 +87,8 @@ using private methods in a test:
 
 ## Day 5
 
+```
+
 class CarFactory
   def initialize(car_class = Car)
     @car_class = car_class
@@ -117,6 +119,7 @@ describe CarFactory do
     end
   end
 end
+```
 
 Testing for the instance of a car class, not an instance of the car class so that you can repeat the car.new in the make_a_car method so that you can generate multiple car.new s within the same class.
 
