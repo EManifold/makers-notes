@@ -74,11 +74,12 @@ Google diagramming chart: Draw.io (if you want to present your diagram to other 
 
 Use makers > skills workshop > domain modelling walkthrough
 
-**Gaps in knowledge to rectify**
+using private methods in a test:
 
+      expect{subject.send(:deduct, 1)}.to change{subject.balance}.by -1
+      
 ## Day 4
 
-**Gaps in knowledge to rectify**
 
 ## Day 5
 
