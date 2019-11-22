@@ -87,4 +87,43 @@ using private methods in a test:
 
 ## Day 5
 
+class CarFactory
+  def initialize(car_class = Car)
+    @car_class = car_class
+  end
+
+  def make_a_car
+    car = @car_class.new
+    car.drive_away
+  end
+end
+
+class Car
+  def drive_away
+    # ... whatever ...
+  end
+end
+
+describe CarFactory do
+  describe "#make_a_car" do
+    it "makes a car" do
+      car_double = double :car
+      car_class_double = double :car_class, new: car_double
+
+      car_factory = CarFactory.new(car_class_double)
+
+      expect(car_double).to receive(:drive_away)
+      car_factory.make_a_car
+    end
+  end
+end
+
+Testing for the instance of a car class, not an instance of the car class so that you can repeat the car.new in the make_a_car method so that you can generate multiple car.new s within the same class.
+
+Dependency Injection:
+Only want an instance of the class so that you're not using a different instance of the class every time you use it in each method in the class that you're using it in. 
+
+
+
+
 **Gaps in knowledge to rectify**
