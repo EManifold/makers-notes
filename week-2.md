@@ -80,6 +80,10 @@ using private methods in a test:
       
 ## Day 4
 
+**Gaps in knowledge to rectify**
+
+- Dependency injection, forwarding and polymorphism
+
 
 ## Day 5
 
