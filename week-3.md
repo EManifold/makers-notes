@@ -40,6 +40,8 @@ Three things in a readme:
 - How to install and run it
 - How to run the tests
 
+![20191126_115320](https://user-images.githubusercontent.com/53044792/69631118-7a5e2700-1045-11ea-9d10-e4f9c075c055.jpg)
+
 
 **Gaps in knowledge to rectify**
 
