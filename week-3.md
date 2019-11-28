@@ -47,6 +47,27 @@ Three things in a readme:
 
 ## Day 3
 
+### Debugging Workshop
+
+Learning Objectives:
+- Define 'debugging' as the process of eliminating bugs from an expected program output
+- Explain the mantra 'Tighten the loop; Get visibility'
+- Use the mantra to resolve bugs across the web stack.
+
+What is debugging? 
+- Correcting unexpected behaviour
+-- Bug
+
+Process:
+1. Tightening the loop -> Right file and line number
+2. Get visibility - using p
+- If you make a change and the tests still don't pass, then revert that change and try again. Don't just keep changing things in the section. 
+
+Spend 5-10 mins googling status codes
+
+See makers/skills-workshop/debugging-2 for activity
+
+
 **Gaps in knowledge to rectify**
 
 ## Day 4
