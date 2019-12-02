@@ -12,6 +12,11 @@
 
 ### Code Review
 
+- Change play again to get method
+- Implement a score
+- Refactor if else statement
+- Go to play when play again instead of index, put home button instead
+
 **Gaps in knowledge to rectify**
 
 
