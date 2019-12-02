@@ -17,6 +17,14 @@
 - Refactor if else statement
 - Go to play when play again instead of index, put home button instead
 
+Group discussion:
+- What's the difference between class method and instance methods?
+- How do you access a class method's methods? 
+
+Todo:
+- Look at rubric
+- Look at deeper learning objectives link
+
 **Gaps in knowledge to rectify**
 
 
