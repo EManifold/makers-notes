@@ -25,7 +25,7 @@ Todo:
 - Look at rubric
 - Look at deeper learning objectives link
 
-**Gaps in knowledge to rectify**
+**Gaps in knowledge to rectify**  
 SQL commands  
 
 ## Day 2
