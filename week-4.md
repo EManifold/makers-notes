@@ -76,6 +76,16 @@ WHERE gdp > 1000000000000
 SELECT name, capital FROM world
 WHERE LENGTH(name) = LENGTH(capital)
 
+
+SELECT name, capital FROM world
+WHERE LEFT(name, 1) = LEFT(capital, 1) 
+AND name <> capital
+(<> is a NOT EQUALS sign)
+
+SELECT yr, subject, winner FROM nobel
+WHERE subject = 'Physics' AND yr = '1980' 
+OR subject = 'Chemistry' AND yr = '1984'
+
 **Gaps in knowledge to rectify**
 
 ## Day 3
