@@ -105,6 +105,11 @@ WHERE population >
      WHERE name = 'Canada') AND population <
         (SELECT population FROM world 
          WHERE name = 'Poland')
+         
+         
+Environment variable:
+do export NAME=PASSWORD in .bashrc
+then call ENV[NAME] in your file
 
 **Gaps in knowledge to rectify**
 
