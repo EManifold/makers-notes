@@ -30,6 +30,10 @@ SQL commands
 
 ## Day 2
 
+## Goals for today
+- Learn SQL commands
+- Plan a blog on doubles/stubs/mocks (write by end of week) 
+
 ### Independent Learning
 
 Some basic SQL commands:
