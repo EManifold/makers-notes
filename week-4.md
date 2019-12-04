@@ -123,8 +123,7 @@ Learning Objectives:
 - Model a simple domain using CRC cards
 - Infer database structure from domain structure
 
-
-![IMG_0508](https://user-images.githubusercontent.com/53044792/70140943-cd5f5c00-168d-11ea-9e2c-afb8d00df408.JPG)
+![IMG_0508](https://user-images.githubusercontent.com/53044792/70140986-e9fb9400-168d-11ea-9f51-136887c832d3.JPG)
 
 
 **Gaps in knowledge to rectify**
