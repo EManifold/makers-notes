@@ -124,8 +124,7 @@ Learning Objectives:
 - Infer database structure from domain structure
 
 
-![IMG_0508](https://user-images.githubusercontent.com/53044792/70140875-9db05400-168d-11ea-8216-ff7522c2659c.JPG)
-
+![IMG_0508](https://user-images.githubusercontent.com/53044792/70140943-cd5f5c00-168d-11ea-9e2c-afb8d00df408.JPG)
 
 
 **Gaps in knowledge to rectify**
