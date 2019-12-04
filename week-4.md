@@ -112,8 +112,20 @@ do export NAME=PASSWORD in .bashrc
 then call ENV[NAME] in your file
 
 **Gaps in knowledge to rectify**
+- Having a hash as a paramter/argument for a method, e.g. (url:)
 
 ## Day 3
+
+### Class Responsibility Workshop
+
+Learning Objectives:
+- Explain how to use CRC cards to model a domain
+- Model a simple domain using CRC cards
+- Infer database structure from domain structure
+
+
+![IMG_0508](https://user-images.githubusercontent.com/53044792/70140875-9db05400-168d-11ea-8216-ff7522c2659c.JPG)
+
 
 
 **Gaps in knowledge to rectify**
