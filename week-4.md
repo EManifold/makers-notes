@@ -125,6 +125,27 @@ Learning Objectives:
 
 ![IMG_0508](https://user-images.githubusercontent.com/53044792/70140986-e9fb9400-168d-11ea-9f51-136887c832d3.JPG)
 
+### My Process Workshop notes
+Ellie's process workshop:
+- Be more vocal and explain what you were doing 'going to pass the test', ''
+TDD:
+- Good set up on rspec
+- Passing the test the simplest way good
+- Expecting to fail the correct tests
+Debugging:
+- Expecting bugs and knowing how the tests will fail
+Modelling:
+- Good breakdown of the problem taking it step by step
+- Trying to pass each acceptance criteria one by one good steps
+- Identifying the edge cases good
+Refactoring:
+- Good at refactoring when you see a problem
+- Clear variable names
+- Not so readable but not given much time to refactor as the challenge was ongoing
+Problem Solving:
+- Good use of opening IRB and using it to help to solve the problem
+- Good use of google to search for syntax
+
 
 **Gaps in knowledge to rectify**
 
