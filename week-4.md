@@ -154,6 +154,18 @@ Problem Solving:
 **Goals for the day**
 - Go over my process workshop with Katarina
 
+### Reviewing my process workshop
+- Setup my spec file and write first test without lib set up (because e.g. might make a typo in lib and wouldn't show up if I'd started testing something else)
+- Good running tests frequently, doing the simplest thing
+- Could use black box testing to plan beforehand
+- Use acceptance criteria more
+- Good to hard code and see a pattern then refactor to fit the pattern
+- Going through the motions of TDD instead of actually using tests usefully
+- Need about 5 mins planning in a half hour session
+
+Overall advice:
+- Lack of planning, need to see input and output
+- Should start with the simplest tests, but the ones that I used seemed the simplest to me but actually weren't the simplest. Need to use the tests to identify a pattern, e.g. test 'A', 'AA', 'AAA', 'AAAA' would show a pattern, and where I tested for 'A', 'B', 'C', 'D', this seems simpler but is actually more complicated because there's no pattern identified that can help you write your code. 
 
 **Gaps in knowledge to rectify**
 
