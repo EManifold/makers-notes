@@ -151,6 +151,10 @@ Problem Solving:
 
 ## Day 4
 
+**Goals for the day**
+- Go over my process workshop with Katarina
+
+
 **Gaps in knowledge to rectify**
 
 
