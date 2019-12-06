@@ -30,7 +30,7 @@ SQL commands
 
 ## Day 2
 
-## Goals for today
+### Goals for today
 - Learn SQL commands
 - Plan a blog on doubles/stubs/mocks (write by end of week) 
 
