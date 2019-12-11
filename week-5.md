@@ -20,6 +20,15 @@
 
 ## Day 3
 
+### Javascript Q&A
+- ES6 stands for Ecma Script 6
+- Use ES5 class structure or ES6 class structure, but don't interchange in the same project.
+- Object in ruby is a reference to a class, or an instance variable. 
+- JS you don't need to use the paramaters of a function within that function, will just ignore them. 
+- Pull in different scripts in HTML files instead of requiring files to link JS files
+
+
+
 **Gaps in knowledge to rectify**
 
 ## Day 4
