@@ -33,6 +33,20 @@
 
 ## Day 4
 
+### Workshop: Following the flow and getting visibility in JavaScript
+
+Why do we need visibility?
+- Need visibility to debug
+- Intuitively reason about what's happening in the program
+- Even if we're not trying to debug, can just be a good way to increase knowledge of how a piece of software is working
+
+- Useful to console.log arguments to your functions (sometimes there are arguments that we aren't seeing)
+- Arity = number of arguments a method takes
+- Don't have to even log the actual value you're trying to get visibility for, but can console log a random string to see what's being executed (e.g. in an if/else statement)
+- Add a ``` debugger ``` line to your program (inbuilt)
+- Console log the value of this at different parts of your code
+
+
 **Gaps in knowledge to rectify**
 
 
