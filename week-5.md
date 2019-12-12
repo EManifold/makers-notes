@@ -45,7 +45,7 @@ Why do we need visibility?
 - Don't have to even log the actual value you're trying to get visibility for, but can console log a random string to see what's being executed (e.g. in an if/else statement)
 - Add a ``` debugger ``` line to your program (inbuilt)
 - Console log the value of this at different parts of your code
-
+- Can use a linter to go through your code (for semi-colons)
 
 **Gaps in knowledge to rectify**
 
