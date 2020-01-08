@@ -21,6 +21,15 @@
 ### JavaScript Event Loop Workshop
 - Single threaded languages have one call stack
 
+### Tech CV Workshop
+- Say you're a software developer on your cv, not 'aspiring' software dev etc
+- Employers need to know why software development is important to you, not just 'it's where i ended up' etc
+- Blog post: 'How I evaluate developers for my team' on makersacademy
+- Choose 2-5 skills (3 is best) skills to talk about, e.g. discipline, creative problem-solving, writing, organisation, community
+- Keep work experience relevant
+- Summarise your previosu role in a sentence
+- Don't go back earlier than the degree (i.e. a-levels)
+
 
 **Gaps in knowledge to rectify**
 
