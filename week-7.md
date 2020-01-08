@@ -18,6 +18,9 @@
 
 ## Day 3
 
+### JavaScript Event Loop Workshop
+- Single threaded languages have one call stack
+
 
 **Gaps in knowledge to rectify**
 
