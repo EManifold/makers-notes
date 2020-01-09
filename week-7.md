@@ -66,6 +66,8 @@ What is a closure?
 
 These return values are 'unusual' because the public method works while using the private method, but you can't call the private method itself. This is because of the use of closures. Private method was in the public method's closure. 
 
+Use (this) at the end to pass an argument to the function that you're immediately invoking. (this) in the console would be the window object. 'this' is the top level scope. Would be more useful to pass in a specific object that you want to create some functionality for.
+
 **Gaps in knowledge to rectify**
 
 ## Day 5
