@@ -45,7 +45,8 @@ What is a closure?
 - Bundling functionality with the scope in which it lives. If we were to define a function in JS, it would have access to all the variables in the scope in which it was created. Bundling the state/environment together.
 - A good use of closures is what makes the module pattern so effective. 
 
-``` let myModule = (function() {
+``` 
+    let myModule = (function() {
       function _privateMethod() {
       return "Hello World!"
       }
